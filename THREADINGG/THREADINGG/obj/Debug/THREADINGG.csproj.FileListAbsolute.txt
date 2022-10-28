@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\bin\Debug\THREADINGG.exe.config
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\bin\Debug\THREADINGG.exe
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\bin\Debug\THREADINGG.pdb
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\obj\Debug\THREADINGG.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\obj\Debug\THREADINGG.FrmBasicThread.resources
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\obj\Debug\THREADINGG.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\obj\Debug\THREADINGG.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\obj\Debug\THREADINGG.exe
+C:\Users\ComputerLab4PC1\source\repos\THREADINGG\THREADINGG\obj\Debug\THREADINGG.pdb
